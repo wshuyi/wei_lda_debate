@@ -1,0 +1,5 @@
+scikit-learn
+jieba
+pyldavis
+pandas
+matplotlib
